@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coinchowder
+- 👋 Hi, I’m @realcoinchowder
 - 👀 I’m interested in crypto, namely Harmony Protocol
 - 🌱 I’m currently learning how to do pull requests to help update the ONEMOON website
 - 💞️ I’m looking to collaborate on anything to help $ONE and $ONEMOON
